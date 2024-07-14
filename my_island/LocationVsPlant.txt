@@ -1,0 +1,16 @@
+100 X 20 = 2000 Locations X 200 Plants =  2000 / 200 = 20 / 2 = 10 = 5 X 2 = 10;
+
+1111*
+11111
+
+Center x = x + 1/2 of width
+Center y = y + 1/2 of height
+
+x = x + 1/2 width 
+y = y + 1/2 height
+
+
+
+            
+            
+        
